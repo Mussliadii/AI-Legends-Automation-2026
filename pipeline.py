@@ -12,7 +12,7 @@ def process_batch(data_dir: str, limit: int = None, output_dir: str = "output"):
     print("=== Starting AI Legends 2026 Automated Pipeline ===")
     
     db_path = os.path.join(data_dir, "master_invoices_database.db")
-    api_key = "AIzaSyBM_o2jhPrSPefiPbx3v37Uav16w6ldbFI" 
+    api_key = "API_KEY" 
     
     try:
         extractor = InvoiceExtractor(api_key=api_key)
