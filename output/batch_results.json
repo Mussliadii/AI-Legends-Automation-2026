@@ -1,0 +1,35 @@
+[
+  {
+    "file_name": "invoice_003.jpg",
+    "invoice_number": "003",
+    "vendor_name": "Demo Company-9",
+    "invoice_date": "2026-04-10",
+    "category": "Тээвэр, логистик",
+    "grand_total": 2920000.0,
+    "decision": "HUMAN_APPROVAL",
+    "errors": "",
+    "warnings": "UNREGISTERED_VENDOR: Vendor 'Demo Company-9' tidak ditemukan di database."
+  },
+  {
+    "file_name": "invoice_004.jpg",
+    "invoice_number": "004",
+    "vendor_name": "Демо Компани -9",
+    "invoice_date": "2026-01-30",
+    "category": "Мэдээллийн технологийн зардал",
+    "grand_total": 200000.0,
+    "decision": "AUTO_POST",
+    "errors": "",
+    "warnings": ""
+  },
+  {
+    "file_name": "invoice_005.jpg",
+    "invoice_number": "005",
+    "vendor_name": "Demo Company 9",
+    "invoice_date": "2026-03-01",
+    "category": "Засвар үйлчилгээ",
+    "grand_total": 150000.0,
+    "decision": "DENY",
+    "errors": "INVALID_DATE: Due date (2026-01-15) lebih awal dari invoice date (2026-03-01)",
+    "warnings": "UNREGISTERED_VENDOR: Vendor 'Demo Company 9' tidak ditemukan di database."
+  }
+]

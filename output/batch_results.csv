@@ -1,0 +1,4 @@
+file_name,invoice_number,vendor_name,invoice_date,category,grand_total,decision,errors,warnings
+invoice_003.jpg,003,Demo Company-9,2026-04-10,"Тээвэр, логистик",2920000.0,HUMAN_APPROVAL,,UNREGISTERED_VENDOR: Vendor 'Demo Company-9' tidak ditemukan di database.
+invoice_004.jpg,004,Демо Компани -9,2026-01-30,Мэдээллийн технологийн зардал,200000.0,AUTO_POST,,
+invoice_005.jpg,005,Demo Company 9,2026-03-01,Засвар үйлчилгээ,150000.0,DENY,INVALID_DATE: Due date (2026-01-15) lebih awal dari invoice date (2026-03-01),UNREGISTERED_VENDOR: Vendor 'Demo Company 9' tidak ditemukan di database.

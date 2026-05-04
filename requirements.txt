@@ -1,0 +1,10 @@
+google-genai
+pymupdf
+pillow
+pydantic
+thefuzz
+python-Levenshtein
+pandas
+streamlit
+matplotlib
+seaborn
