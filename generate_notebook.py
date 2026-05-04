@@ -45,7 +45,7 @@ from google.genai import types
 
 # --- Configuration ---
 # Note: For Kaggle submission, we use Kaggle Secrets. For local, set the API key here.
-API_KEY = "AIzaSyBM_o2jhPrSPefiPbx3v37Uav16w6ldbFI" 
+API_KEY = "API_KEY" 
 
 # Smart Path detection (Local vs Kaggle)
 if os.path.exists("Data"):
