@@ -95,7 +95,6 @@ streamlit run app.py
 ## 🏆 Competition Credentials
 - **Competition**: AI Legends 2026
 - **Track**: AI Agent Automation
-- **Author**: [Your Name]
-
+- **Author**: Musliadi
 ---
 *Disclaimer: This tool is a prototype built for demonstration purposes.*
